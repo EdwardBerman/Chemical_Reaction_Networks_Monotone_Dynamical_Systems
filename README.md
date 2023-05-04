@@ -1,1 +1,1 @@
-# Chemical_Reaction_Networks_Monotone_Dynamical_Systems
+# Chemical Reaction Networks and Monotone Dynamical Systems
